@@ -1,0 +1,9 @@
+server=1
+addnode=54.67.36.62
+rpcuser=user
+rpcpassword=password
+rpcallowip=*
+rpctimeout=240
+rpcport=21313
+port=21314
+listen=1
